@@ -14,9 +14,9 @@ timezone: America/New_York
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Spenego # the main title
+title: Spenego Software # the main title
 
-tagline: Technical publications from Spenego Software # it will display as the subtitle
+tagline: Technical publications # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Various articles of interest to the public from Spenego Software engineers.
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /assets/logo.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
